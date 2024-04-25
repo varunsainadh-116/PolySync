@@ -2,6 +2,8 @@
 # PolySync
 PolySync revolutionizes real-time code collaboration by offering developers a seamless platform to collaboratively code in virtual rooms. With instantaneous synchronization of code changes across all participants, it empowers teams to work efficiently and effectively, fostering a dynamic environment for innovation and productivity.
 
+## Demo Video
+https://github.com/varunsainadh-116/PolySync/assets/118454392/f72fb74f-33ce-497f-86b1-8e1954c3bfdf
 
 ## Live Demo
 You can try out CodeCast by visiting the https://poly-sync.vercel.app . Create or join a room and start collaborating with others in real time!
