@@ -6,7 +6,7 @@ PolySync revolutionizes real-time code collaboration by offering developers a se
 https://github.com/varunsainadh-116/PolySync/assets/118454392/f72fb74f-33ce-497f-86b1-8e1954c3bfdf
 
 ## Live Demo
-You can try out CodeCast by visiting the https://poly-sync.vercel.app . Create or join a room and start collaborating with others in real time!
+You can try out PolySync by visiting the https://poly-sync.vercel.app . Create or join a room and start collaborating with others in real time!
 Insert gif or link to demo
 
 
